@@ -1,2 +1,2 @@
-# ADsP_preperation
-r codes for adsp qualification
+# ADsP_preparation
+r codes for preparing ADsP 
